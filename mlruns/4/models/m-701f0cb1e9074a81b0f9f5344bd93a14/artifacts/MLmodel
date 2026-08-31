@@ -1,0 +1,29 @@
+artifact_path: file:C:/Users/novan/Desktop/ALL/To_Learn/MLFlow/mlruns/4/models/m-701f0cb1e9074a81b0f9f5344bd93a14/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.14.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+is_signature_from_type_hint: false
+mlflow_version: 3.15.2
+model_id: m-701f0cb1e9074a81b0f9f5344bd93a14
+model_size_bytes: 791
+model_uuid: m-701f0cb1e9074a81b0f9f5344bd93a14
+prompts: null
+run_id: 54626ae3a12c4a88a97960a8323d0df7
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 4]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-08-31 05:41:25.714848'

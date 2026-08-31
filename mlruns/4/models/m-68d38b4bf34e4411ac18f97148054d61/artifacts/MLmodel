@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/novan/Desktop/ALL/To_Learn/MLFlow/mlruns/4/models/m-68d38b4bf34e4411ac18f97148054d61/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.14.7
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types: null
+mlflow_version: 3.15.2
+model_id: m-68d38b4bf34e4411ac18f97148054d61
+model_size_bytes: 9202
+model_uuid: m-68d38b4bf34e4411ac18f97148054d61
+prompts: null
+run_id: 3a709936ebc04bf3af3ca671f274f5d9
+utc_time_created: '2026-08-30 18:21:54.682551'

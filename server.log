@@ -1,0 +1,6 @@
+2026/08/31 17:49:40 INFO mlflow.models.flavor_backend_registry: Selected backend for flavor 'python_function'
+2026/08/31 17:49:40 INFO mlflow.pyfunc.backend: === Running command 'uvicorn --host 127.0.0.1 --port 4560 --workers 1 mlflow.pyfunc.scoring_server.app:app'
+INFO:     Started server process [20148]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:4560 (Press CTRL+C to quit)

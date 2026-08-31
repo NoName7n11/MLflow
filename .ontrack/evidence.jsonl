@@ -1,0 +1,45 @@
+{"type": "file_extension", "name": "db", "source": "mlflow.db", "detected_at": "2026-08-29T21:31:51Z"}
+{"type": "file_extension", "name": "py", "source": "lect_1.py", "detected_at": "2026-08-29T21:31:51Z"}
+{"type": "session", "id": "2026-08-29T21:31:51Z", "detected_at": "2026-08-29T21:31:51Z"}
+{"type": "file_extension", "name": "db", "source": "mlflow.db", "detected_at": "2026-08-29T21:56:07Z"}
+{"type": "file_extension", "name": "py", "source": "lect_1.py", "detected_at": "2026-08-29T21:56:07Z"}
+{"type": "session", "id": "2026-08-29T21:56:07Z", "detected_at": "2026-08-29T21:56:07Z"}
+{"type": "file_extension", "name": "db", "source": "mlflow.db", "detected_at": "2026-08-29T21:56:07Z"}
+{"type": "file_extension", "name": "py", "source": "lect_1.py", "detected_at": "2026-08-29T21:56:07Z"}
+{"type": "session", "id": "2026-08-29T21:56:07Z", "detected_at": "2026-08-29T21:56:07Z"}
+{"type": "file_extension", "name": "db", "source": "mlflow.db", "detected_at": "2026-08-30T11:46:07Z"}
+{"type": "file_extension", "name": "png", "source": "img.png", "detected_at": "2026-08-30T11:46:07Z"}
+{"type": "file_extension", "name": "py", "source": "lect_1.py", "detected_at": "2026-08-30T11:46:07Z"}
+{"type": "session", "id": "2026-08-30T11:46:07Z", "detected_at": "2026-08-30T11:46:07Z"}
+{"type": "file_extension", "name": "db", "source": "mlflow.db", "detected_at": "2026-08-30T11:50:57Z"}
+{"type": "file_extension", "name": "png", "source": "img.png", "detected_at": "2026-08-30T11:50:57Z"}
+{"type": "file_extension", "name": "py", "source": "lect_1.py", "detected_at": "2026-08-30T11:50:57Z"}
+{"type": "session", "id": "2026-08-30T11:50:57Z", "detected_at": "2026-08-30T11:50:57Z"}
+{"type": "file_extension", "name": "db", "source": "mlflow.db", "detected_at": "2026-08-30T11:51:17Z"}
+{"type": "file_extension", "name": "png", "source": "img.png", "detected_at": "2026-08-30T11:51:17Z"}
+{"type": "file_extension", "name": "py", "source": "lect_1.py", "detected_at": "2026-08-30T11:51:17Z"}
+{"type": "session", "id": "2026-08-30T11:51:17Z", "detected_at": "2026-08-30T11:51:17Z"}
+{"type": "file_extension", "name": "db", "source": "mlflow.db", "detected_at": "2026-08-30T11:51:18Z"}
+{"type": "file_extension", "name": "png", "source": "img.png", "detected_at": "2026-08-30T11:51:18Z"}
+{"type": "file_extension", "name": "py", "source": "lect_1.py", "detected_at": "2026-08-30T11:51:18Z"}
+{"type": "session", "id": "2026-08-30T11:51:18Z", "detected_at": "2026-08-30T11:51:18Z"}
+{"type": "dependency", "name": "mlflow", "source": "mlruns/4/models/m-43f4415ca5804d4980e77ae8d0b345a9/artifacts/requirements.txt", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "dependency", "name": "numpy", "source": "mlruns/4/models/m-43f4415ca5804d4980e77ae8d0b345a9/artifacts/requirements.txt", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "dependency", "name": "pandas", "source": "mlruns/4/models/m-43f4415ca5804d4980e77ae8d0b345a9/artifacts/requirements.txt", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "dependency", "name": "psutil", "source": "mlruns/4/models/m-43f4415ca5804d4980e77ae8d0b345a9/artifacts/requirements.txt", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "dependency", "name": "scikit-learn", "source": "mlruns/4/models/m-43f4415ca5804d4980e77ae8d0b345a9/artifacts/requirements.txt", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "dependency", "name": "scipy", "source": "mlruns/4/models/m-43f4415ca5804d4980e77ae8d0b345a9/artifacts/requirements.txt", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "dependency", "name": "skops", "source": "mlruns/4/models/m-43f4415ca5804d4980e77ae8d0b345a9/artifacts/requirements.txt", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "dependency", "name": "cloudpickle", "source": "mlruns/4/models/m-467dcce13dea4e67961fd6c754217fd6/artifacts/requirements.txt", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "file_extension", "name": "csv", "source": "Dataset/EN_Card_Data.csv", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "file_extension", "name": "db", "source": "mlflow.db", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "file_extension", "name": "html", "source": "mlruns/4/07e52cdfa3b249d39dab58b4e0430edd/artifacts/estimator.html", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "file_extension", "name": "json", "source": "mlruns/3/ce9e0f359cdd4bde9c411b49861e2692/artifacts/Pokemon.json", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "file_extension", "name": "log", "source": "server.log", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "file_extension", "name": "pkl", "source": "mlruns/4/models/m-467dcce13dea4e67961fd6c754217fd6/artifacts/model.pkl", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "file_extension", "name": "png", "source": "img.png", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "file_extension", "name": "py", "source": "lect_1.py", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "file_extension", "name": "skops", "source": "mlruns/4/models/m-43f4415ca5804d4980e77ae8d0b345a9/artifacts/model.skops", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "file_extension", "name": "txt", "source": "mlruns/4/models/m-43f4415ca5804d4980e77ae8d0b345a9/artifacts/requirements.txt", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "file_extension", "name": "yaml", "source": "mlruns/4/models/m-43f4415ca5804d4980e77ae8d0b345a9/artifacts/conda.yaml", "detected_at": "2026-08-31T13:44:31Z"}
+{"type": "session", "id": "2026-08-31T13:44:31Z", "detected_at": "2026-08-31T13:44:31Z"}
