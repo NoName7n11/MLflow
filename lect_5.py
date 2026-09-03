@@ -1,5 +1,5 @@
 # In this we will lurn how to deploy a registered model 
-import mlflow
+import mlflow.sklearn
 
 model_uri = "models:/best-production-model/2"
 
